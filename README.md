@@ -4,7 +4,7 @@
 
 * [Production Deployment](https://ksl29-prod.herokuapp.com/)
 
-[![Development Workflow](https://github.com/ksl29/IS219_FlaskApp/workflows/dev.yml/badge.svg)](https://github.com/ksl29/IS219_FlaskApp/actions/workflows/dev.yml)
+[![Development Workflow](https://github.com/ksl29/IS219_FlaskApp/actions/workflows/dev.yml/badge.svg)](https://github.com/ksl29/IS219_FlaskApp/actions/workflows/dev.yml)
 
 * [Developmental Deployment](https://ksl29-dev.herokuapp.com/)
 
